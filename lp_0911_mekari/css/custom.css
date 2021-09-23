@@ -1,0 +1,469 @@
+.distop{
+ text-align: right;
+}
+.disimg{
+    width: 38%;
+}
+
+/* btn */
+.btn-primary {
+    color: #fff;
+    background: #FF006D;
+}
+.btn02 {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    padding: 2rem;
+    font-size: 1.375rem;
+    text-align: center;
+    width: 100%;
+    border-radius:10px;
+    margin: -250px;
+    position: relative;
+    top: 600px;
+    width: 300px;
+}
+.btn03 {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    padding: 2rem;
+    font-size: 1.375rem;
+    text-align: center;
+    width: 100%;
+    border-radius:10px;
+    margin: -250px;
+    position: relative;
+    top: 470px;
+    left: 160px;
+    width: 300px;
+}
+.btn06 {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    padding: 2rem;
+    font-size: 1.375rem;
+    text-align: center;
+    width: 100%;
+    border-radius:10px;
+    margin: -250px;
+    position: relative;
+    top: 360px;
+    left: 160px;
+    width: 300px;
+}
+.btn-primary:hover {
+    background: #eb70a5;
+    color: white;
+
+}
+
+.sec01{
+    background-image: url('../images/lp_01.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 24rem 35rem;
+    background-position: center top, center;
+}
+.sec02{
+    background-image: url('../images/lp_02.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 45rem 35rem;
+    background-position: center top, center;
+    text-align: center;
+}
+.sec03{
+    background-image: url('../images/lp_03.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 35rem 35rem;
+    background-position: center top, center;
+}
+.sec04{
+    background-image: url('../images/lp_04.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 32rem 35rem;
+    background-position: center top, center;
+}
+.sec05{
+    background-image: url('../images/lp_05.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 44rem 35rem;
+    background-position: center top, center;
+}
+.sec06{
+    background-image: url('../images/lp_06.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 30rem 35rem;
+    background-position: center top, center;
+}
+/* sns */
+.contact-sns {
+    padding: 2rem !important;
+    display: flex;
+    justify-content: center;
+}
+.contact-sns a {
+    background: #fff;
+    width: 3.5rem;
+    height: 3.5rem;
+    display: inline-block;
+    margin: 0 .5rem;
+    border-radius: 50% !important;
+    font-size: 2rem;
+    padding: 0.3rem;
+    color: #555;
+}
+.contact-sns a:hover {
+    background: rgba(255,255,255,.5);
+}
+
+
+/* ---------------------------------------------------------------------------------------------------------------------- */
+@media screen and (max-width:1024px){
+
+.distop{
+    text-align: right;
+    }
+    .disimg{
+        width: 70%;
+    }
+
+/* btn */
+.btn-primary {
+    color: #fff;
+    background: #FF006D;
+}
+.btn02 {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    padding: 2rem;
+    font-size: 1.375rem;
+    text-align: center;
+    width: 100%;
+    border-radius:10px;
+    margin: -250px;
+    position: relative;
+    top: 600px;
+    width: 300px;
+}
+.btn03 {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    padding: 2rem;
+    font-size: 1.375rem;
+    text-align: center;
+    width: 100%;
+    border-radius:10px;
+    margin: -250px;
+    position: relative;
+    top: 470px;
+    left: 630px;
+    width: 300px;
+}
+.btn06 {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    padding: 2rem;
+    font-size: 1.375rem;
+    text-align: center;
+    width: 100%;
+    border-radius:10px;
+    margin: -250px;
+    position: relative;
+    top: 360px;
+    left: 630px;
+    width: 300px;
+}
+.btn-primary:hover {
+    background: #eb70a5;
+    color: white;
+}
+
+.sec01{
+    background-image: url('../images/lp_01.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 24rem 0rem;
+    background-position: center top, center;
+}
+.sec02{
+    background-image: url('../images/lp_02.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 45rem 0rem;
+    background-position: center top, center;
+    text-align: center;
+}
+.sec03{
+    background-image: url('../images/lp_03.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 35rem 0rem;
+    background-position: center top, center;
+}
+.sec04{
+    background-image: url('../images/lp_04.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 32rem 0rem;
+    background-position: center top, center;
+}
+.sec05{
+    background-image: url('../images/lp_05.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 44rem 0rem;
+    background-position: center top, center;
+}
+.sec06{
+    background-image: url('../images/lp_06.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 30rem 0rem;
+    background-position: center top, center;
+}
+
+
+}
+
+
+
+/* ---------------------------------------------------------------------------------------------------------------------- */
+@media screen and (max-width:800px){
+.distop{
+    text-align: right;
+    }
+    .disimg{
+        width: 63%;
+    }
+
+/* btn */
+.btn02 {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    padding: 0.8rem;
+    font-size: 1.375rem;
+    text-align: center;
+    width: 100%;
+    border-radius:10px;
+    margin: -250px;
+    position: relative;
+    top: 480px;
+    width: 150px;
+}
+.btn03 {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    padding: 0.8rem;
+    font-size: 1.375rem;
+    text-align: center;
+    width: 100%;
+    border-radius:10px;
+    margin: -250px;
+    position: relative;
+    top: 360px;
+    width: 150px;
+    left: 360px;
+}
+.btn06 {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    padding: 0.8rem;
+    font-size: 1.375rem;
+    text-align: center;
+    width: 100%;
+    border-radius:10px;
+    margin: -250px;
+    position: relative;
+    top: 320px;
+    width: 150px;
+    left: 360px;
+}
+/* 画像 */
+.sec01{
+    background-image: url('../images/lp_01.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 19rem 10rem;
+    background-position: center top, center;
+    background-size: 100vw;
+}
+
+.sec02{
+    background-image: url('../images/lp_02.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 34rem 10rem;
+    background-position: center top, center;
+    text-align: center;
+    background-size: 100vw;
+}
+.sec03{
+    background-image: url('../images/lp_03.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 28rem 10rem;
+    background-position: center top, center;
+    background-size: 100vw;
+}
+.sec04{
+    background-image: url('../images/lp_04.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 26rem 10rem;
+    background-position: center top, center;
+    background-size: 100vw;
+}
+.sec05{
+    background-image: url('../images/lp_05.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 33rem 10rem;
+    background-position: center top, center;
+    background-size: 100vw;
+}
+.sec06{
+    background-image: url('../images/lp_06.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 21rem 10rem;
+    background-position: center top, center;
+    background-size: 100vw;
+}
+
+/* sns */
+.contact-sns {
+    padding: 2rem !important;
+    display: flex;
+    justify-content: center;
+}
+.contact-sns a {
+    background: #fff;
+    width: 3.5rem;
+    height: 3.5rem;
+    display: inline-block;
+    margin: 0 .5rem;
+    border-radius: 50% !important;
+    font-size: 2rem;
+    padding: 0.2rem;
+    color: #555;
+    line-height: 1.8;
+}
+.contact-sns a:hover {
+    background: rgba(255,255,255,.5);
+}
+}
+
+/* ---------------------------------------------------------------------------------------------------------------- */
+
+@media screen and (max-width:400px){
+
+/* btn */
+.btn02 {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    padding: 0.8rem;
+    font-size: 1.375rem;
+    text-align: center;
+    width: 100%;
+    border-radius:10px;
+    margin: -250px;
+    position: relative;
+    top: 240px;
+    width: 150px;
+}
+.btn03 {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    padding: 0.8rem;
+    font-size: 1.375rem;
+    text-align: center;
+    width: 100%;
+    border-radius:10px;
+    margin: -250px;
+    position: relative;
+    top: 180px;
+    width: 190px;
+    left: 170px;
+}
+.btn06 {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    padding: 0.8rem;
+    font-size: 1.375rem;
+    text-align: center;
+    width: 100%;
+    border-radius:10px;
+    margin: -250px;
+    position: relative;
+    top: 150px;
+    width: 150px;
+    left: 170px;
+}
+/* 画像 */
+.sec01{
+    background-image: url('../images/lp_01.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 9rem 10rem;
+    background-position: center top, center;
+    background-size: 100vw;
+}
+
+.sec02{
+    background-image: url('../images/lp_02.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 18rem 10rem;
+    background-position: center top, center;
+    text-align: center;
+    background-size: 100vw;
+}
+.sec03{
+    background-image: url('../images/lp_03.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 13rem 10rem;
+    background-position: center top, center;
+    background-size: 100vw;
+}
+.sec04{
+    background-image: url('../images/lp_04.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 14rem 10rem;
+    background-position: center top, center;
+    background-size: 100vw;
+}
+.sec05{
+    background-image: url('../images/lp_05.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 17rem 10rem;
+    background-position: center top, center;
+    background-size: 100vw;
+}
+.sec06{
+    background-image: url('../images/lp_06.png') ;
+    background-repeat: no-repeat no-repeat;
+    color: #E8F0F3;
+    padding: 12rem 10rem;
+    background-position: center top, center;
+    background-size: 100vw;
+}
+
+/* sns */
+.contact-sns {
+    padding: 2rem !important;
+    display: flex;
+    justify-content: center;
+}
+.contact-sns a {
+    background: #fff;
+    width: 3.5rem;
+    height: 3.5rem;
+    display: inline-block;
+    margin: 0 .5rem;
+    border-radius: 50% !important;
+    font-size: 2rem;
+    padding: 0.2rem;
+    color: #555;
+    line-height: 1.8;
+}
+.contact-sns a:hover {
+    background: rgba(255,255,255,.5);
+}
+
+}
